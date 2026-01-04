@@ -1,6 +1,6 @@
 # Análise Comparativa de Cenários Epidemiológicos em um Modelo CA-SEIR com Diferentes Taxas de Transmissão (β)
 
-Este projeto implementa uma simulação epidemiológica baseada no modelo **SEIR**, utilizando **Autômatos Celulares (CA)** para representar a propagação da influenza sazonal em uma grade bidimensional.
+Este projeto implementa uma simulação epidemiológica baseada no modelo **SEIR**, utilizando **Autômatos Celulares (CA)** para representar a propagação da influenza sazonal em uma grade bidimensional. A simulação é realizada em três cenários distintos, permitindo uma análise comparativa dos efeitos de diferentes taxas de transmissão **(β)** sobre a dinâmica epidêmica.
 
 O programa gera automaticamente:
 
